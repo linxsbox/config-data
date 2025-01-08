@@ -1,7 +1,7 @@
 {
     "name": "",
-    "basePath": "",
-    "componentPath": "",
+    "basePath": "https://github.com/linxsbox/config-data/blob/main",
+    "componentPath": "tools",
     "tools": [
         {
             "name": "demo 1",
