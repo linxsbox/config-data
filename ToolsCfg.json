@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "basePath": "",
+    "componentPath": "",
+    "tools": [
+        {
+            "name": "demo 1",
+            "fileName": "demo1.vue"
+        }
+    ]
+}
