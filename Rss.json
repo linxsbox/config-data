@@ -1,0 +1,40 @@
+{
+    "xiaoyuzhou": [
+      {
+        "name": "肥话连篇",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/61d50d72ee197a3aac3dac42",
+        "id": "61d50d72ee197a3aac3dac42"
+      },
+      {
+        "name": "高能量",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/62c6ae08c4eaa82b112b9c84",
+        "id": "62c6ae08c4eaa82b112b9c84"
+      },
+      {
+        "name": "智族Talk",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/5e280faa418a84a0461f9e09",
+        "id": "5e280faa418a84a0461f9e09"
+      },
+      {
+        "name": "商业WHY酱",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/61315abc73105e8f15080b8a",
+        "id": "61315abc73105e8f15080b8a"
+      },
+      {
+        "name": "纵横四海",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/62694abdb221dd5908417d1e",
+        "id": "62694abdb221dd5908417d1e"
+      },
+      {
+        "name": "乱翻书",
+        "sourceUrl": "https://www.xiaoyuzhoufm.com/podcast/61358d971c5d56efe5bcb5d2",
+        "id": "61358d971c5d56efe5bcb5d2"
+      }
+    ],
+    "rss": [
+      {
+        "name": "阮一峰的网络日志",
+        "sourceUrl": "http://www.ruanyifeng.com/blog/atom.xml"
+      }
+    ]
+  }

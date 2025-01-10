@@ -1,0 +1,238 @@
+[
+    {
+      "name": "新能车",
+      "code": "515030",
+      "trades": [
+        {
+          "type": "BUY",
+          "price": "1.155",
+          "volume": 1200,
+          "amount": "1386.00",
+          "timestamp": "1736488889256"
+        },
+        {
+          "type": "BUY",
+          "price": "1.350",
+          "volume": 1000,
+          "amount": "1350.00",
+          "timestamp": "1736488875704"
+        },
+        {
+          "type": "SELL",
+          "price": "1.320",
+          "volume": 500,
+          "amount": "660.00",
+          "timestamp": "1736488858752"
+        },
+        {
+          "type": "SELL",
+          "price": "1.230",
+          "volume": 1500,
+          "amount": "1845.00",
+          "timestamp": "1736488853087"
+        },
+        {
+          "type": "SELL",
+          "price": "1.220",
+          "volume": 3000,
+          "amount": "3660.00",
+          "timestamp": "1736488844256"
+        },
+        {
+          "type": "SELL",
+          "price": "1.185",
+          "volume": 3000,
+          "amount": "3555.00",
+          "timestamp": "1736488834929"
+        },
+        {
+          "type": "BUY",
+          "price": "1.317",
+          "volume": 2000,
+          "amount": "2634.00",
+          "timestamp": "1736488809561"
+        },
+        {
+          "type": "BUY",
+          "price": "1.057",
+          "volume": 1000,
+          "amount": "1057.00",
+          "timestamp": "1736488748049"
+        },
+        {
+          "type": "BUY",
+          "price": "1.043",
+          "volume": 100,
+          "amount": "104.30",
+          "timestamp": "1736488739250"
+        },
+        {
+          "type": "BUY",
+          "price": "1.252",
+          "volume": 400,
+          "amount": "500.80",
+          "timestamp": "1736488732041"
+        },
+        {
+          "type": "BUY",
+          "price": "1.555",
+          "volume": 400,
+          "amount": "622.00",
+          "timestamp": "1736488700266"
+        },
+        {
+          "type": "BUY",
+          "price": "1.501",
+          "volume": 600,
+          "amount": "900.60",
+          "timestamp": "1736488676523"
+        },
+        {
+          "type": "BUY",
+          "price": "1.575",
+          "volume": 500,
+          "amount": "787.50",
+          "timestamp": "1736488676520"
+        },
+        {
+          "type": "BUY",
+          "price": "1.580",
+          "volume": 1400,
+          "amount": "2212.00",
+          "timestamp": "1736488663202"
+        },
+        {
+          "type": "BUY",
+          "price": "1.838",
+          "volume": 500,
+          "amount": "919.00",
+          "timestamp": "1736488645202"
+        },
+        {
+          "type": "BUY",
+          "price": "1.906",
+          "volume": 300,
+          "amount": "571.80",
+          "timestamp": "1736488636331"
+        },
+        {
+          "type": "SELL",
+          "price": "2.315",
+          "volume": 600,
+          "amount": "1389.00",
+          "timestamp": "1736488523602"
+        },
+        {
+          "type": "BUY",
+          "price": "1.896",
+          "volume": 600,
+          "amount": "1137.60",
+          "timestamp": "1736488512679"
+        },
+        {
+          "type": "BUY",
+          "price": "2.110",
+          "volume": 300,
+          "amount": "633.00",
+          "timestamp": "1736487879927"
+        },
+        {
+          "type": "BUY",
+          "price": "2.209",
+          "volume": 100,
+          "amount": "220.90",
+          "timestamp": "1736487867998"
+        },
+        {
+          "type": "BUY",
+          "price": "2.250",
+          "volume": 300,
+          "amount": "675.00",
+          "timestamp": "1736487861750"
+        },
+        {
+          "type": "BUY",
+          "price": "2.385",
+          "volume": 300,
+          "amount": "715.50",
+          "timestamp": "1736487853759"
+        },
+        {
+          "type": "BUY",
+          "price": "2.421",
+          "volume": 100,
+          "amount": "242.10",
+          "timestamp": "1736487770575"
+        },
+        {
+          "type": "BUY",
+          "price": "2.450",
+          "volume": 300,
+          "amount": "735.00",
+          "timestamp": "1736487763904"
+        },
+        {
+          "type": "SELL",
+          "price": "2.700",
+          "volume": 200,
+          "amount": "540.00",
+          "timestamp": "1736487747880"
+        },
+        {
+          "type": "SELL",
+          "price": "2.634",
+          "volume": 200,
+          "amount": "526.80",
+          "timestamp": "1736487740872"
+        },
+        {
+          "type": "BUY",
+          "price": "2.282",
+          "volume": 500,
+          "amount": "1141.00",
+          "timestamp": "1736487730912"
+        },
+        {
+          "type": "SELL",
+          "price": "2.372",
+          "volume": 200,
+          "amount": "474.40",
+          "timestamp": "1736487712911"
+        },
+        {
+          "type": "BUY",
+          "price": "1.769",
+          "volume": 200,
+          "amount": "353.80",
+          "timestamp": "1736487694095"
+        },
+        {
+          "type": "BUY",
+          "price": "1.629",
+          "volume": 100,
+          "amount": "162.90",
+          "timestamp": "1736487671703"
+        },
+        {
+          "type": "BUY",
+          "price": "1.037",
+          "volume": 100,
+          "amount": "103.70",
+          "timestamp": "1736487663127"
+        },
+        {
+          "type": "BUY",
+          "price": "0.780",
+          "volume": 100,
+          "amount": "78.00",
+          "timestamp": "1736487653169"
+        }
+      ],
+      "result": {
+        "averagePrice": "2.060",
+        "totalAmount": "6593.30",
+        "totalVolume": 3200
+      },
+      "timestamp": "1736487605203"
+    }
+  ]
